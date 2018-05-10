@@ -2,20 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0b3c380-3c58-475c-b949-ce697dd8c4b0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/campaignmonitor/images/220x200.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/campaignmonitor/images/290x210.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/campaignmonitor/images/450x260.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/campaignmonitor/images/740x490.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/campaignmonitor/images/94x94.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/campaignmonitor/images/facebook-w.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/campaignmonitor/images/g1-w.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/campaignmonitor/images/in-w.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/campaignmonitor/images/logo-footer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/campaignmonitor/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/campaignmonitor/images/play-video.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/campaignmonitor/images/twiter-w.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/campaignmonitor/email-campaignmonitor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/mailchimp.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/mailchimp/images/220x200.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/mailchimp/images/290x210.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/mailchimp/images/450x260.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/mailchimp/images/740x490.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/mailchimp/images/94x94.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/mailchimp/images/facebook-w.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/mailchimp/images/g1-w.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/mailchimp/images/in-w.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/mailchimp/images/logo-footer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/mailchimp/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/mailchimp/images/play-video.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/mailchimp/images/twiter-w.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/mailchimp/email-mailchimp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -30,100 +31,116 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="email-campaignmonitor.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/email templates/campaignmonitor/email-campaignmonitor.html">
+      <file leaf-file-name="email-mailchimp.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/email templates/mailchimp/email-mailchimp.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="1787" column="216" lean-forward="true" selection-start-line="1787" selection-start-column="216" selection-end-line="1787" selection-end-column="216" />
+            <state relative-caret-position="454">
+              <caret line="2170" column="73" lean-forward="false" selection-start-line="2170" selection-start-column="73" selection-end-line="2170" selection-end-column="73" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h1#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#singleline#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#2;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#7;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#td#0;n#tr#7;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#7;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h3#0;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#td#0;n#tr#7;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#2;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h3#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#3;n#td#0;n#tr#7;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#4;n#td#0;n#tr#7;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#td#0;n#tr#1;n#tbody#0;n#table#1;n#td#0;n#tr#0;n#tbody#0;n#table#4;n#td#0;n#tr#7;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#9;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#singleline#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#2;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#9;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#1;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#9;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#2;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#9;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#10;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#table#0;n#td#0;n#tr#10;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#singleline#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#2;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#11;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#14;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#17;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#17;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#18;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#td#0;n#tr#18;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#10;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#11;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#table#1;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#11;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#1;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#11;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#2;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#11;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h3#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#14;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#18;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#18;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#19;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#19;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#19;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h3#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#20;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#0;n#multiline#0;n#div#0;n#td#0;n#tr#2;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#23;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#singleline#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#3;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#23;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#0;n#multiline#0;n#div#0;n#td#0;n#tr#2;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#td#0;n#tr#23;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#singleline#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#3;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#td#0;n#tr#23;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#td#0;n#tr#2;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#2;n#td#0;n#tr#23;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#0;n#multiline#0;n#div#0;n#td#0;n#tr#2;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#2;n#td#0;n#tr#23;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#singleline#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#3;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#2;n#td#0;n#tr#23;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#unsubscribe#0;n#td#1;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#25;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1525965648249" expanded="true" signature="227:385" ph="..." />
-                <marker date="1525965648249" expanded="true" signature="262:374" ph="..." />
-                <marker date="1525965648249" expanded="false" signature="29606:29618" ph="..." />
-                <marker date="1525965648249" expanded="true" signature="29619:29751" ph="..." />
-                <marker date="1525965648249" expanded="true" signature="29644:29751" ph="..." />
-                <marker date="1525965648249" expanded="false" signature="29721:29733" ph="..." />
-                <marker date="1525965648249" expanded="true" signature="29734:29751" ph="..." />
-                <marker date="1525965648249" expanded="false" signature="32119:32206" ph="..." />
-                <marker date="1525965648249" expanded="true" signature="32207:32392" ph="..." />
-                <marker date="1525965648249" expanded="true" signature="32363:32392" ph="..." />
-                <marker date="1525965648249" expanded="false" signature="32988:32999" ph="..." />
-                <marker date="1525965648249" expanded="true" signature="33000:33098" ph="..." />
-                <marker date="1525965648249" expanded="true" signature="33053:33098" ph="..." />
-                <marker date="1525965648249" expanded="false" signature="33251:33263" ph="..." />
-                <marker date="1525965648249" expanded="true" signature="33264:33309" ph="..." />
-                <marker date="1525965648249" expanded="false" signature="43556:43567" ph="..." />
-                <marker date="1525965648249" expanded="true" signature="43568:43658" ph="..." />
-                <marker date="1525965648249" expanded="true" signature="43617:43658" ph="..." />
-                <marker date="1525965648249" expanded="false" signature="43803:43815" ph="..." />
-                <marker date="1525965648249" expanded="true" signature="43816:43857" ph="..." />
-                <marker date="1525965648249" expanded="false" signature="47924:47935" ph="..." />
-                <marker date="1525965648249" expanded="true" signature="47936:48026" ph="..." />
-                <marker date="1525965648249" expanded="true" signature="47985:48026" ph="..." />
-                <marker date="1525965648249" expanded="false" signature="48171:48183" ph="..." />
-                <marker date="1525965648249" expanded="true" signature="48184:48225" ph="..." />
-                <marker date="1525965648249" expanded="false" signature="111382:111407" ph="..." />
-                <marker date="1525965648249" expanded="true" signature="111408:111701" ph="..." />
-                <marker date="1525965648249" expanded="true" signature="111636:111701" ph="..." />
-                <marker date="1525965648249" expanded="false" signature="118242:118253" ph="..." />
-                <marker date="1525965648249" expanded="true" signature="118254:118344" ph="..." />
-                <marker date="1525965648249" expanded="true" signature="118303:118344" ph="..." />
-                <marker date="1525965648249" expanded="false" signature="118489:118501" ph="..." />
-                <marker date="1525965648249" expanded="true" signature="118502:118543" ph="..." />
-                <marker date="1525965648249" expanded="false" signature="122624:122635" ph="..." />
-                <marker date="1525965648249" expanded="true" signature="122636:122726" ph="..." />
-                <marker date="1525965648249" expanded="true" signature="122685:122726" ph="..." />
-                <marker date="1525965648249" expanded="false" signature="122871:122883" ph="..." />
-                <marker date="1525965648249" expanded="true" signature="122884:122925" ph="..." />
-                <marker date="1525965648249" expanded="false" signature="124983:124995" ph="..." />
-                <marker date="1525965648249" expanded="true" signature="124996:125164" ph="..." />
-                <marker date="1525965648249" expanded="true" signature="125033:125164" ph="..." />
-                <marker date="1525965648249" expanded="false" signature="125122:125134" ph="..." />
-                <marker date="1525965648249" expanded="true" signature="125135:125164" ph="..." />
-                <marker date="1525965648249" expanded="false" signature="132390:132403" ph="..." />
-                <marker date="1525965648249" expanded="true" signature="132404:132433" ph="..." />
-                <marker date="1525965648249" expanded="false" signature="139666:139678" ph="..." />
-                <marker date="1525965648249" expanded="true" signature="139679:139708" ph="..." />
-                <marker date="1525965648249" expanded="false" signature="149426:149437" ph="..." />
-                <marker date="1525965648249" expanded="true" signature="149438:149528" ph="..." />
-                <marker date="1525965648249" expanded="true" signature="149487:149528" ph="..." />
-                <marker date="1525965648249" expanded="false" signature="149673:149685" ph="..." />
-                <marker date="1525965648249" expanded="true" signature="149686:149727" ph="..." />
+                <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#21;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#21;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#22;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#23;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#td#0;n#tr#2;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#23;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#strong#0;n#div#1;n#td#0;n#tr#2;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#23;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#3;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#23;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#td#0;n#tr#23;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#td#0;n#tr#2;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#td#0;n#tr#23;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#3;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#td#0;n#tr#23;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#2;n#td#0;n#tr#23;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#td#0;n#tr#2;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#2;n#td#0;n#tr#23;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#3;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#2;n#td#0;n#tr#23;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#24;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#24;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#table#0;n#td#2;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#25;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1525967341425" expanded="true" signature="227:385" ph="..." />
+                <marker date="1525967341425" expanded="true" signature="262:374" ph="..." />
+                <marker date="1525967341425" expanded="false" signature="29606:29618" ph="..." />
+                <marker date="1525967341425" expanded="true" signature="29619:29751" ph="..." />
+                <marker date="1525967341425" expanded="true" signature="29644:29751" ph="..." />
+                <marker date="1525967341425" expanded="false" signature="29721:29733" ph="..." />
+                <marker date="1525967341425" expanded="true" signature="29734:29751" ph="..." />
+                <marker date="1525967341425" expanded="false" signature="32121:32208" ph="..." />
+                <marker date="1525967341425" expanded="true" signature="32209:32394" ph="..." />
+                <marker date="1525967341425" expanded="true" signature="32365:32394" ph="..." />
+                <marker date="1525967341425" expanded="false" signature="32990:33001" ph="..." />
+                <marker date="1525967341425" expanded="true" signature="33002:33100" ph="..." />
+                <marker date="1525967341425" expanded="true" signature="33055:33100" ph="..." />
+                <marker date="1525967341425" expanded="false" signature="33253:33265" ph="..." />
+                <marker date="1525967341425" expanded="true" signature="33266:33311" ph="..." />
+                <marker date="1525967341425" expanded="false" signature="43560:43571" ph="..." />
+                <marker date="1525967341425" expanded="true" signature="43572:43662" ph="..." />
+                <marker date="1525967341425" expanded="true" signature="43621:43662" ph="..." />
+                <marker date="1525967341425" expanded="false" signature="43807:43819" ph="..." />
+                <marker date="1525967341425" expanded="true" signature="43820:43861" ph="..." />
+                <marker date="1525967341425" expanded="false" signature="47945:47956" ph="..." />
+                <marker date="1525967341425" expanded="true" signature="47957:48047" ph="..." />
+                <marker date="1525967341425" expanded="true" signature="48006:48047" ph="..." />
+                <marker date="1525967341425" expanded="false" signature="48192:48204" ph="..." />
+                <marker date="1525967341425" expanded="true" signature="48205:48246" ph="..." />
+                <marker date="1525967341425" expanded="false" signature="111383:111408" ph="..." />
+                <marker date="1525967341425" expanded="true" signature="111409:111702" ph="..." />
+                <marker date="1525967341425" expanded="true" signature="111637:111702" ph="..." />
+                <marker date="1525967341425" expanded="false" signature="118245:118256" ph="..." />
+                <marker date="1525967341425" expanded="true" signature="118257:118347" ph="..." />
+                <marker date="1525967341425" expanded="true" signature="118306:118347" ph="..." />
+                <marker date="1525967341425" expanded="false" signature="118492:118504" ph="..." />
+                <marker date="1525967341425" expanded="true" signature="118505:118546" ph="..." />
+                <marker date="1525967341425" expanded="false" signature="122622:122633" ph="..." />
+                <marker date="1525967341425" expanded="true" signature="122634:122724" ph="..." />
+                <marker date="1525967341425" expanded="true" signature="122683:122724" ph="..." />
+                <marker date="1525967341425" expanded="false" signature="122869:122881" ph="..." />
+                <marker date="1525967341425" expanded="true" signature="122882:122923" ph="..." />
+                <marker date="1525967341425" expanded="false" signature="124976:124988" ph="..." />
+                <marker date="1525967341425" expanded="true" signature="124989:125157" ph="..." />
+                <marker date="1525967341425" expanded="true" signature="125026:125157" ph="..." />
+                <marker date="1525967341425" expanded="false" signature="125115:125127" ph="..." />
+                <marker date="1525967341425" expanded="true" signature="125128:125157" ph="..." />
+                <marker date="1525967341425" expanded="false" signature="132430:132443" ph="..." />
+                <marker date="1525967341425" expanded="true" signature="132444:132473" ph="..." />
+                <marker date="1525967341425" expanded="false" signature="139751:139763" ph="..." />
+                <marker date="1525967341425" expanded="true" signature="139764:139793" ph="..." />
+                <marker date="1525967341425" expanded="false" signature="149555:149566" ph="..." />
+                <marker date="1525967341425" expanded="true" signature="149567:149657" ph="..." />
+                <marker date="1525967341425" expanded="true" signature="149616:149657" ph="..." />
+                <marker date="1525967341425" expanded="false" signature="149802:149814" ph="..." />
+                <marker date="1525967341425" expanded="true" signature="149815:149856" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -132,7 +149,7 @@
         <entry file="file://$PROJECT_DIR$/../../my.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="407">
-              <caret line="62" column="7" lean-forward="true" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
+              <caret line="62" column="7" lean-forward="false" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
               <folding>
                 <element signature="n#style#0;n#td#0;n#tr#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#table#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -168,6 +185,8 @@
       <find>class=&quot;mcnButton&quot; title=&quot;&quot;</find>
       <find>class=&quot;mcnButton &quot;</find>
       <find>class=&quot;mcnButton&quot;</find>
+      <find>&lt;im</find>
+      <find>mcnButtonContent</find>
     </findStrings>
     <replaceStrings>
       <replace>238</replace>
@@ -186,8 +205,9 @@
         <option value="$PROJECT_DIR$/../../my.html" />
         <option value="$PROJECT_DIR$/email templates/eloqua/email-eloqua.html" />
         <option value="$PROJECT_DIR$/email templates/eloqua/email-eloqua-ex.html" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/email templates/campaignmonitor/email-campaignmonitor.html" />
+        <option value="$PROJECT_DIR$/email templates/mailchimp/email-mailchimp.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -243,12 +263,6 @@
               <item name="number2" type="b2602c69:ProjectViewProjectNode" />
               <item name="number2" type="462c0819:PsiDirectoryNode" />
               <item name="email templates" type="462c0819:PsiDirectoryNode" />
-              <item name="eloqua" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="number2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="number2" type="462c0819:PsiDirectoryNode" />
-              <item name="email templates" type="462c0819:PsiDirectoryNode" />
               <item name="mailchimp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -291,15 +305,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525945894872</updated>
-      <workItem from="1525945896288" duration="19656000" />
+      <workItem from="1525945896288" duration="21874000" />
     </task>
+    <task id="LOCAL-00001" summary="Compain Monitor">
+      <created>1525965931869</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1525965931872</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Compain Monitor ex">
+      <created>1525965999161</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1525965999161</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19656000" />
+    <option name="totallyTimeSpent" value="21874000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19810326" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -307,7 +337,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -324,6 +354,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Compain Monitor" />
+    <MESSAGE value="Compain Monitor ex" />
+    <option name="LAST_COMMIT_MESSAGE" value="Compain Monitor ex" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1001,14 +1036,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../marketo/marketo-simpl.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="281">
@@ -1020,7 +1047,7 @@
     <entry file="file://$PROJECT_DIR$/../../my.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="407">
-          <caret line="62" column="7" lean-forward="true" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
+          <caret line="62" column="7" lean-forward="false" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
           <folding>
             <element signature="n#style#0;n#td#0;n#tr#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#table#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1035,7 +1062,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/email templates/campaignmonitor/email-campaignmonitor.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
+        <state relative-caret-position="30974">
           <caret line="1787" column="216" lean-forward="true" selection-start-line="1787" selection-start-column="216" selection-end-line="1787" selection-end-column="216" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1126,6 +1153,116 @@
             <marker date="1525965648249" expanded="false" signature="149673:149685" ph="..." />
             <marker date="1525965648249" expanded="true" signature="149686:149727" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/email templates/mailchimp/email-mailchimp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="2170" column="73" lean-forward="false" selection-start-line="2170" selection-start-column="73" selection-end-line="2170" selection-end-column="73" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#2;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#3;n#td#0;n#tr#7;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#4;n#td#0;n#tr#7;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#td#0;n#tr#1;n#tbody#0;n#table#1;n#td#0;n#tr#0;n#tbody#0;n#table#4;n#td#0;n#tr#7;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#9;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#9;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#2;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#9;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#10;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#td#0;n#tr#10;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#10;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#11;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#1;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#11;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#11;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#2;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#11;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#14;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#18;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#18;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#20;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#21;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#21;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#22;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#23;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#td#0;n#tr#2;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#23;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#strong#0;n#div#1;n#td#0;n#tr#2;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#23;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#3;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#23;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#td#0;n#tr#23;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#td#0;n#tr#2;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#td#0;n#tr#23;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#3;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#td#0;n#tr#23;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#2;n#td#0;n#tr#23;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#td#0;n#tr#2;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#2;n#td#0;n#tr#23;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#3;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#2;n#td#0;n#tr#23;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#24;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#24;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#td#2;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#25;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1525967341425" expanded="true" signature="227:385" ph="..." />
+            <marker date="1525967341425" expanded="true" signature="262:374" ph="..." />
+            <marker date="1525967341425" expanded="false" signature="29606:29618" ph="..." />
+            <marker date="1525967341425" expanded="true" signature="29619:29751" ph="..." />
+            <marker date="1525967341425" expanded="true" signature="29644:29751" ph="..." />
+            <marker date="1525967341425" expanded="false" signature="29721:29733" ph="..." />
+            <marker date="1525967341425" expanded="true" signature="29734:29751" ph="..." />
+            <marker date="1525967341425" expanded="false" signature="32121:32208" ph="..." />
+            <marker date="1525967341425" expanded="true" signature="32209:32394" ph="..." />
+            <marker date="1525967341425" expanded="true" signature="32365:32394" ph="..." />
+            <marker date="1525967341425" expanded="false" signature="32990:33001" ph="..." />
+            <marker date="1525967341425" expanded="true" signature="33002:33100" ph="..." />
+            <marker date="1525967341425" expanded="true" signature="33055:33100" ph="..." />
+            <marker date="1525967341425" expanded="false" signature="33253:33265" ph="..." />
+            <marker date="1525967341425" expanded="true" signature="33266:33311" ph="..." />
+            <marker date="1525967341425" expanded="false" signature="43560:43571" ph="..." />
+            <marker date="1525967341425" expanded="true" signature="43572:43662" ph="..." />
+            <marker date="1525967341425" expanded="true" signature="43621:43662" ph="..." />
+            <marker date="1525967341425" expanded="false" signature="43807:43819" ph="..." />
+            <marker date="1525967341425" expanded="true" signature="43820:43861" ph="..." />
+            <marker date="1525967341425" expanded="false" signature="47945:47956" ph="..." />
+            <marker date="1525967341425" expanded="true" signature="47957:48047" ph="..." />
+            <marker date="1525967341425" expanded="true" signature="48006:48047" ph="..." />
+            <marker date="1525967341425" expanded="false" signature="48192:48204" ph="..." />
+            <marker date="1525967341425" expanded="true" signature="48205:48246" ph="..." />
+            <marker date="1525967341425" expanded="false" signature="111383:111408" ph="..." />
+            <marker date="1525967341425" expanded="true" signature="111409:111702" ph="..." />
+            <marker date="1525967341425" expanded="true" signature="111637:111702" ph="..." />
+            <marker date="1525967341425" expanded="false" signature="118245:118256" ph="..." />
+            <marker date="1525967341425" expanded="true" signature="118257:118347" ph="..." />
+            <marker date="1525967341425" expanded="true" signature="118306:118347" ph="..." />
+            <marker date="1525967341425" expanded="false" signature="118492:118504" ph="..." />
+            <marker date="1525967341425" expanded="true" signature="118505:118546" ph="..." />
+            <marker date="1525967341425" expanded="false" signature="122622:122633" ph="..." />
+            <marker date="1525967341425" expanded="true" signature="122634:122724" ph="..." />
+            <marker date="1525967341425" expanded="true" signature="122683:122724" ph="..." />
+            <marker date="1525967341425" expanded="false" signature="122869:122881" ph="..." />
+            <marker date="1525967341425" expanded="true" signature="122882:122923" ph="..." />
+            <marker date="1525967341425" expanded="false" signature="124976:124988" ph="..." />
+            <marker date="1525967341425" expanded="true" signature="124989:125157" ph="..." />
+            <marker date="1525967341425" expanded="true" signature="125026:125157" ph="..." />
+            <marker date="1525967341425" expanded="false" signature="125115:125127" ph="..." />
+            <marker date="1525967341425" expanded="true" signature="125128:125157" ph="..." />
+            <marker date="1525967341425" expanded="false" signature="132430:132443" ph="..." />
+            <marker date="1525967341425" expanded="true" signature="132444:132473" ph="..." />
+            <marker date="1525967341425" expanded="false" signature="139751:139763" ph="..." />
+            <marker date="1525967341425" expanded="true" signature="139764:139793" ph="..." />
+            <marker date="1525967341425" expanded="false" signature="149555:149566" ph="..." />
+            <marker date="1525967341425" expanded="true" signature="149567:149657" ph="..." />
+            <marker date="1525967341425" expanded="true" signature="149616:149657" ph="..." />
+            <marker date="1525967341425" expanded="false" signature="149802:149814" ph="..." />
+            <marker date="1525967341425" expanded="true" signature="149815:149856" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
