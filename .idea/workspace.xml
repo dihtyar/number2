@@ -2,21 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0b3c380-3c58-475c-b949-ce697dd8c4b0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/mailchimp.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/mailchimp/images/220x200.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/mailchimp/images/290x210.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/mailchimp/images/450x260.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/mailchimp/images/740x490.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/mailchimp/images/94x94.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/mailchimp/images/facebook-w.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/mailchimp/images/g1-w.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/mailchimp/images/in-w.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/mailchimp/images/logo-footer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/mailchimp/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/mailchimp/images/play-video.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/mailchimp/images/twiter-w.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email templates/mailchimp/email-mailchimp.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -31,7 +16,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="email-mailchimp.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="email-mailchimp.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/email templates/mailchimp/email-mailchimp.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="454">
@@ -130,34 +115,6 @@
                 <marker date="1525967341425" expanded="true" signature="149616:149657" ph="..." />
                 <marker date="1525967341425" expanded="false" signature="149802:149814" ph="..." />
                 <marker date="1525967341425" expanded="true" signature="149815:149856" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="my.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../my.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="62" column="7" lean-forward="false" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
-              <folding>
-                <element signature="n#style#0;n#td#0;n#tr#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#table#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1525954413660" expanded="true" signature="226:354" ph="..." />
-                <marker date="1525954413660" expanded="true" signature="256:345" ph="..." />
               </folding>
             </state>
           </provider>
@@ -271,6 +228,11 @@
               <item name="email templates" type="462c0819:PsiDirectoryNode" />
               <item name="marketo" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="number2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="number2" type="462c0819:PsiDirectoryNode" />
+              <item name="psd" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -305,7 +267,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525945894872</updated>
-      <workItem from="1525945896288" duration="21874000" />
+      <workItem from="1525945896288" duration="21954000" />
     </task>
     <task id="LOCAL-00001" summary="Compain Monitor">
       <created>1525965931869</created>
@@ -321,17 +283,23 @@
       <option name="project" value="LOCAL" />
       <updated>1525965999161</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Mail chimp">
+      <created>1525968126405</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1525968126405</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21874000" />
+    <option name="totallyTimeSpent" value="21954000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19810326" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19810326" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -358,7 +326,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Compain Monitor" />
     <MESSAGE value="Compain Monitor ex" />
-    <option name="LAST_COMMIT_MESSAGE" value="Compain Monitor ex" />
+    <MESSAGE value="Mail chimp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mail chimp" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1044,22 +1013,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../my.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="62" column="7" lean-forward="false" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#td#0;n#tr#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#table#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1525954413660" expanded="true" signature="226:354" ph="..." />
-            <marker date="1525954413660" expanded="true" signature="256:345" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/email templates/campaignmonitor/email-campaignmonitor.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30974">
@@ -1153,6 +1106,30 @@
             <marker date="1525965648249" expanded="false" signature="149673:149685" ph="..." />
             <marker date="1525965648249" expanded="true" signature="149686:149727" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../my.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="23" selection-end-column="8" />
+          <folding>
+            <element signature="n#style#0;n#td#0;n#tr#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#table#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1525954413660" expanded="true" signature="226:354" ph="..." />
+            <marker date="1525954413660" expanded="true" signature="256:345" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1255,14 +1232,6 @@
             <marker date="1525967341425" expanded="false" signature="149802:149814" ph="..." />
             <marker date="1525967341425" expanded="true" signature="149815:149856" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
